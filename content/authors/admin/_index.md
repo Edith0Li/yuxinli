@@ -1,7 +1,7 @@
 ---
 # Display name
 title: YUXIN LI
-  link: uploads/resume.pdf
+- link: uploads/resume.pdf
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
