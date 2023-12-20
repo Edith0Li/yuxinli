@@ -102,7 +102,7 @@ skills:
     color: '#B0FF4D'
     color_border: '#C8FF82'
     items:
-      -name: Mandarin
+      -name: Mand
   
 
 
