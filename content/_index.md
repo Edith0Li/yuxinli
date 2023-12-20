@@ -214,7 +214,7 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
-  - block: collection         PUBLICATIONS!!!
+  - block: collection         #PUBLICATIONS!!!
     content:
       title: Recent Publications
       text: |-
