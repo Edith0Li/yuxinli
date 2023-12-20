@@ -99,7 +99,13 @@ skills:
         percent: 70
       - name: Piano
         percent: 80
-  
+  - name: Language
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Mandarin
+        description: 'Native'
+        percent: 100
 
 
 
