@@ -92,7 +92,7 @@ skills:
       - name: WWise
         percent: 50
       - name: Arduino
-        percent: 60
+        percent: 6
   
 
 
