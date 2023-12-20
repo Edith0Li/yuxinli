@@ -38,10 +38,10 @@ education:
   courses:
     - course: BE in Digital Media Technology
       institution: Beijing University of Posts and Telecommunications
-      year: 2024
-    #- course: MEng in Artificial Intelligence
-    #  institution: Massachusetts Institute of Technology
-    #  year: 2009
+      year: 2018-2024
+    - course: High School
+      institution: Chengdu No.7 High School
+      year: 2015-2018
     #- course: BSc in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2008
@@ -123,10 +123,10 @@ skills:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'yuxin.edith.li@gmail.com'
+#social:
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: 'yuxin.edith.li@gmail.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -139,9 +139,9 @@ social:
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
