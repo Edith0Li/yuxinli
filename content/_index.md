@@ -74,7 +74,7 @@ sections:
 
               * Post-edited videos, including editing, colorizing, and designing visual effects
               * Collaborated with the directors’ team to improve movie scripts, camera language, and editing, and identify
-opportunities for improvement and efficiency
+                opportunities for improvement and efficiency
             #  * Deploying
         - title: Product Operation Intern
           company: Zhengzhou Songlin Network Technology Co., Ltd
