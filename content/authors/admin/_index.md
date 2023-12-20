@@ -51,13 +51,13 @@ education:
 skills:
   - name: Programming
     items:
-      - name: Python
-        description: 'Numpy/OpenCV/Matplotlib/TensorFlow/Pygame'
+      - name: Python(Numpy/OpenCV/Matplotlib/TensorFlow/Pygame)
+      #  description: ''
         percent: 70
       #  icon: python
       #  icon_pack: fab
-      - name: SQL
-        description: 'MySQL/SQL Server'
+      - name: SQL(MySQL/SQL Server)
+      #  description: 'MySQL/SQL Server'
         percent: 50
       #  icon: chart-line
       #  icon_pack: fas
@@ -79,8 +79,8 @@ skills:
         percent: 80
       #  icon: person-hiking
       #  icon_pack: fas
-      - name: Adobe
-        description: 'Premiere/Photoshop/Audition/After Effects'
+      - name: Adobe(Premiere/Photoshop/Audition/After Effects)
+      #  description: ''
         percent: 90
       #  icon: cat
       #  icon_pack: fas
@@ -99,13 +99,23 @@ skills:
         percent: 70
       - name: Piano
         percent: 80
+      - name: Jazz Drum
+        percent: 60
+      - name: Composition & Remix
+        percent: 60
+      - name: Percussion(in the Symphony Orchestra)
+        percent: 70
   - name: Language
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Mandarin
-        description: 'Native'
+      - name: Mandarin(Native)
+      #  description: 'Native'
         percent: 100
+      - name: English(IELTS 7)
+        percent: 70
+      - name: German(B2)
+        percent: 50
 
 
 
