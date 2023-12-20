@@ -130,15 +130,15 @@ sections:
           organization_url: https://www.coursera.org
           title: 'The Art of Music Production'
           url: ''
-        #- certificate_url: https://www.coursera.org/account/accomplishments/verify/MBZQ6UPRBZKF
-        #  date_end: ''
-        #  date_start: '2020-02-24'
-        #  description: ''
-        #  icon: coursera
-        #  organization: Coursera
-        #  organization_url: https://www.coursera.org
-        #  title: 'The Art of Music Production'
-        #  url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/FM8L56RR29KQ
+          date_end: ''
+          date_start: '2020-01-27'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Introduction to Psychology'
+          url: ''
     design:
       columns: '2'
   - block: collection
