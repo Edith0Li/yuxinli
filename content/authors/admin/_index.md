@@ -93,16 +93,6 @@ skills:
         percent: 50
       - name: Arduino
         percent: 60
-  - name: Music
-    color: '#4D54FF'
-    color_border: '#777DFF'
-    items:
-      -name: Vocal
-  - name: Languages
-    color: '#B0FF4D'
-    color_border: '#C8FF82'
-    items:
-      -name: Mand
   
 
 
