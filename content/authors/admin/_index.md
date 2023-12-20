@@ -63,11 +63,13 @@ skills:
       #  icon_pack: fas
       - name: Java
       #  description: ''
-      #  percent: 40
+        percent: 40
       #  icon: database
       #  icon_pack: fas
       - name: C#
+        percent: 40
       - name: C++
+        percent: 40
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -87,6 +89,8 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+  - name: Music
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
