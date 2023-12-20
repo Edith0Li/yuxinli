@@ -75,7 +75,6 @@ sections:
               * Post-edited videos, including editing, colorizing, and designing visual effects
               * Collaborated with the directors’ team to improve movie scripts, camera language, and editing, and identify
                 opportunities for improvement and efficiency
-            #  * Deploying
         - title: Product Operation Intern
           company: Zhengzhou Songlin Network Technology Co., Ltd
         #  company_url: ''
@@ -91,10 +90,11 @@ sections:
               * Formulated product operation planning, marketing strategy, and new product promotion
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Activities
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      #title: 'Accomplish&shy;ments'
+      title: 'Activities'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
