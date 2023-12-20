@@ -150,7 +150,6 @@ skills:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-icon: 👋
 highlight_name: true
 ---
 
