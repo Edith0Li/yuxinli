@@ -92,7 +92,13 @@ skills:
       - name: WWise
         percent: 50
       - name: Arduino
-        percent: 6
+        percent: 60
+  - name: Music
+    items:
+      - name: Vocal
+        percent: 70
+      - name: Piano
+        percent: 80
   
 
 
