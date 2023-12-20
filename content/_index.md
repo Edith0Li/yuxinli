@@ -90,7 +90,7 @@ sections:
               * Formulated product operation planning, marketing strategy, and new product promotion
     design:
       columns: '2'
-  - block: Activities
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       #title: 'Accomplish&shy;ments'
