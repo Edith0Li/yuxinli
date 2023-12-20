@@ -214,20 +214,20 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
-  #- block: collection
-  #  content:
-  #    title: Recent Publications
-  #    text: |-
-  #      {{% callout note %}}
-  #      Quickly discover relevant content by [filtering publications](./publication/).
-  #      {{% /callout %}}
-  #    filters:
-  #      folders:
-  #        - publication
-  #      exclude_featured: true
-  #  design:
-  #    columns: '2'
-  #    view: citation
+  - block: collection         PUBLICATIONS!!!
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   #- block: collection
   #  id: talks
   #  content:
@@ -261,10 +261,6 @@ sections:
         postcode: '102206'
         country: China(Mainland)
         country_code: CN
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      #office_hours:
-      #  - 'Monday 10:00 to 13:00'
-      #  - 'Wednesday 09:00 to 10:00'
       ## Choose a map provider in `params.yaml` to show a map from these coordinates
       #coordinates: location!
       #  latitude: '37.4275'
