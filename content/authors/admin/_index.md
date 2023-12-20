@@ -70,27 +70,42 @@ skills:
         percent: 40
       - name: C++
         percent: 40
-  - name: Hobbies
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
+      - name: Blender
+      #  description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+      #  icon: person-hiking
+      #  icon_pack: fas
+      - name: Adobe
+        description: 'Premiere/Photoshop/Audition/After Effects'
+        percent: 90
+      #  icon: cat
+      #  icon_pack: fas
+      - name: Cubase
+      #  description: ''
+        percent: 90
+      #  icon: camera-retro
+      #  icon_pack: fas
+      - name: WWise
+        percent: 50
+      - name: Arduino
+        percent: 60
   - name: Music
+    color: '#4D54FF'
+    color_border: '#777DFF'
+    items:
+      -name: Vocal
+  - name: Languages
+    color: '#B0FF4D'
+    color_border: '#C8FF82'
+    items:
+      -name: Mandarin
   
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
