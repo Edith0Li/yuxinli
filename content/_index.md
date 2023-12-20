@@ -67,8 +67,8 @@ sections:
         #  company_url: ''
         #  company_logo: org-gc
           location: Chengdu, China
-          date_start: '2022-07'
-          date_end: '2022-08'
+          date_start: '2022-07-01'
+          date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
 
@@ -81,8 +81,8 @@ sections:
         #  company_url: ''
         #  company_logo: org-x
           location: Beijing, China
-          date_start: '2020-10'
-          date_end: '2020-12'
+          date_start: '2020-10-15'
+          date_end: '2020-12-31'
           description: |2-
               Responsibilities include:
 
