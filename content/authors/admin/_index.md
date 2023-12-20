@@ -133,8 +133,8 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #    header: true
-  - icon: book # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: portfolio # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
     link: uploads/PORTFOLIO.pdf
   #- icon: github
   #  icon_pack: fab
