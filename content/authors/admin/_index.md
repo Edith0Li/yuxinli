@@ -153,5 +153,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yuxin (Edith) Li, an undergraduate student at the School of Digital Media and Design Arts, Beijing University of Posts and Telecommunications. My major is Digital Media Technology.
+I am a digital music composer and sound designer, and was a percussionist in the Symphonic and Wind Ensemble of Beijing University of Posts and Telecommunications. My dream is to explore the possibilities of combining technology and music. I have a broad interest in music acoustics, chamber acoustics, music interaction and sound engineering.
 {style="text-align: justify;"}
