@@ -187,8 +187,12 @@ sections:
           tag: '*'
         - name: Interactive Design
           tag: Interactive Design
-        - name: Performance
-          tag: Performance
+        - name: Performances
+          tag: Performances
+        - name: Musical Works
+          tag: Musical Works
+        - name: Others
+          tag: Others
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
