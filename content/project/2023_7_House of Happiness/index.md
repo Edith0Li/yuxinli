@@ -1,9 +1,9 @@
 ---
-title: ChinUP!
-summary: An intelligent pull-up motion detection and counting application.
+title: House of Happiness
+summary: A game design.
 tags:
   - Interactive Design
-date: "2022-06-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 
 ## Optional external URL for project (replaces project detail page).
 #external_link: https://example.org

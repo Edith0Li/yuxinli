@@ -1,9 +1,9 @@
 ---
-title: ChinUP!
-summary: An intelligent pull-up motion detection and counting application.
+title: Molody
+summary: A user interface and music design.
 tags:
   - Interactive Design
-date: "2022-06-01T00:00:00Z"
+date: "2023-05-01T00:00:00Z"
 
 ## Optional external URL for project (replaces project detail page).
 #external_link: https://example.org
