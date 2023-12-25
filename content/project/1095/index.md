@@ -1,6 +1,6 @@
 ---
 title: 1905 in the Air
-summary: VR Stage Design
+summary: A VR Stage Design.
 tags:
   - Interactive Design
 date: '2023-11-01T00:00:00Z'
