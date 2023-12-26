@@ -6,7 +6,7 @@ tags:
 date: "2022-11-01T00:00:00Z"
 
 ## Optional external URL for project (replaces project detail page).
-external_link: https://mp.weixin.qq.com/s/bJLf7RGThpYlo7hnC2c38g
+#external_link: https://mp.weixin.qq.com/s/bJLf7RGThpYlo7hnC2c38g
 
 #image:
 #  caption: Photo by Toa Heftiba on Unsplash
@@ -14,3 +14,4 @@ external_link: https://mp.weixin.qq.com/s/bJLf7RGThpYlo7hnC2c38g
 ---
 
 xxxxxxxxxxxxx
+https://mp.weixin.qq.com/s/bJLf7RGThpYlo7hnC2c38g
