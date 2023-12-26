@@ -1,9 +1,9 @@
 ---
-title: Ba Feng Zhi Yin (八风之音)
-summary: An AR Chinese traditional instrument interactive display application.
+title: Hao Wang Shui (好望水)
+summary: An advertising film.
 tags:
-  - Interactive Design
-date: "2023-04-01T00:00:00Z"
+  - Others
+date: "2022-10-01T00:00:00Z"
 
 ## Optional external URL for project (replaces project detail page).
 #external_link: https://example.org
