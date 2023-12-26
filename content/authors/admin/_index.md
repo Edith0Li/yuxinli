@@ -96,15 +96,15 @@ skills:
   - name: Music
     items:
       - name: Vocal
-        percent: 90
+        percent: 80
       - name: Piano
-        percent: 60
-      - name: Jazz Drum
-        percent: 60
-      - name: Composition & Remix
-        percent: 60
-      - name: Percussion(in the Symphony Orchestra)
         percent: 70
+      - name: Jazz Drum
+        percent: 75
+      - name: Composition & Remix
+        percent: 65
+      - name: Percussion(in the Symphony Orchestra)
+        percent: 85
   - name: Language
     color: '#eeac02'
     color_border: '#f0bf23'
