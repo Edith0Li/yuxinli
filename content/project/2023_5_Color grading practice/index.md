@@ -13,4 +13,4 @@ date: "2023-05-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+My movie color grading practice.

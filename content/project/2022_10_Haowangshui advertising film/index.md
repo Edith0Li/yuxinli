@@ -13,4 +13,4 @@ date: "2022-10-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+My team members and I designed, shot and post edited a commercial for the Hao Wang Shui Beverage brand's line of fruit-flavored soda drinks.

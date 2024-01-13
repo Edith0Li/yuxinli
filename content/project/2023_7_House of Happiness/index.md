@@ -13,4 +13,6 @@ date: "2023-07-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+"Hospice care is a service to prevent and alleviate the suffering of terminally ill patients and their families, and to improve their quality of life before death. It advocates active decision-making and close contact with family members. It is an end-of-life process that gives meaning to life in the process of living in peace and happiness.
+
+We wanted to visualize what people want in a simple way, so for the main body of the game we wanted to bring the player and the characters closer together through first-person conversations and interactions.

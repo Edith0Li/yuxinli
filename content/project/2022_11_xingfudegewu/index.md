@@ -13,5 +13,5 @@ date: "2022-11-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxghng
+In November 2022, we performed the piece "Xing Fu De Ge Wu" in the Beijing University Students' Art Festival Competition, and won the Gold Prize in Beijing.
 https://mp.weixin.qq.com/s/bJLf7RGThpYlo7hnC2c38g

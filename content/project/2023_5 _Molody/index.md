@@ -13,4 +13,4 @@ date: "2023-05-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+In social apps, people tend to use a combination of pictures and text to share their feelings at the moment. But at the same time, sound is also a very important part of our daily life. I conceived an application that allows users to record the sound feelings in their lives, and at the same time, combine their own music, build scenes and share them according to their feelings.

@@ -13,4 +13,6 @@ date: "2023-04-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+My group and I made an AR app for interactive display of classical Chinese musical instruments. Using the camera to scan a brochure, the user is able to see the instrument in three dimensions and use two fingers to zoom in and out and rotate it. Clicking on a button allows the user to listen to a representative piece of music for the instrument and view a text description of the instrument.
+
+In another mode, users are able to touch the instrument with their fingers and produce the corresponding musical sound.
