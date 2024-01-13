@@ -13,4 +13,4 @@ date: "2020-11-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+In November 2020, we performed the piece "Come, Drink One More Cup" in the Beijing University Students' Art Festival Competition, and won the Silver Prize in Beijing.
