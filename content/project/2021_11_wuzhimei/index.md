@@ -13,5 +13,5 @@ date: "2021-11-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxx
+In November 2021, we performed the piece "Wu Zhi Mei" in the Beijing University Students' Art Festival Competition, and won the Gold Prize in Beijing.
 https://www.bilibili.com/video/BV193411r7L8?p=6

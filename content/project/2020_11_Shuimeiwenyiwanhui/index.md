@@ -13,4 +13,4 @@ date: "2020-11-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx瞬間センチメンタル
+I performed tracks "瞬間センチメンタル" with the band at the College of Digital Media and Design Arts Welcome Party and Singers Competition in November 2020.
