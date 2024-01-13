@@ -53,7 +53,7 @@ skills:
     items:
       - name: Python(Numpy/OpenCV/Matplotlib/TensorFlow/Pygame)
       #  description: ''
-        percent: 70
+        percent: 80
       #  icon: python
       #  icon_pack: fab
       - name: SQL(MySQL/SQL Server)
@@ -63,13 +63,13 @@ skills:
       #  icon_pack: fas
       - name: Java
       #  description: ''
-        percent: 40
+        percent: 70
       #  icon: database
       #  icon_pack: fas
       - name: C#
-        percent: 40
+        percent: 60
       - name: C++
-        percent: 40
+        percent: 60
   - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -92,17 +92,17 @@ skills:
       - name: WWise
         percent: 50
       - name: Arduino
-        percent: 60
+        percent: 70
   - name: Music
     items:
       - name: Vocal
-        percent: 80
+        percent: 90
       - name: Piano
-        percent: 70
+        percent: 80
       - name: Jazz Drum
-        percent: 75
+        percent: 85
       - name: Composition & Remix
-        percent: 65
+        percent: 70
       - name: Percussion(in the Symphony Orchestra)
         percent: 85
   - name: Language
@@ -113,9 +113,9 @@ skills:
       #  description: 'Native'
         percent: 100
       - name: English(IELTS 7)
-        percent: 70
+        percent: 80
       - name: German(B2)
-        percent: 50
+        percent: 70
 
 
 
