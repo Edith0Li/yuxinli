@@ -14,3 +14,5 @@ date: "2023-05-01T00:00:00Z"
 ---
 
 My movie color grading practice.
+
+YOUTUBE:https://youtu.be/T_eeTfHiPaQ?si=R2i35ds_XD8IhO1N

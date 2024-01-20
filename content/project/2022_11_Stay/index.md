@@ -1,8 +1,8 @@
 ---
-title: Black Dream
-summary: A VFX design video.
+title: Stay
+summary: “Recording and mixing.(vocal-Alison)”
 tags:
-  - Others
+  - Musical Works
 date: "2022-11-01T00:00:00Z"
 
 ## Optional external URL for project (replaces project detail page).
@@ -13,6 +13,4 @@ date: "2022-11-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-I used NukeX to add visual effects and post to a short movie.
-
-YOUTUBE:https://youtu.be/Rd6Ay1JAZts?si=c6AhfFylIWdt-4zh
+	YOUTUBE:https://youtu.be/phOecFcGSDs?si=KY8g26z_sOZ_NFpQ

@@ -14,3 +14,5 @@ date: "2022-10-01T00:00:00Z"
 ---
 
 My team members and I designed, shot and post edited a commercial for the Hao Wang Shui Beverage brand's line of fruit-flavored soda drinks.
+
+YOUTUBE:https://youtu.be/cThY2nw1zFM?si=b843K3orA-6s5Zy1
