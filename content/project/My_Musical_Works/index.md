@@ -1,6 +1,6 @@
 ---
 title: My Musical Works List
-summary: ""
+summary: 
 tags:
   - Musical Works
 date: "2023-03-01T00:00:00Z"
@@ -19,7 +19,7 @@ date: "2023-03-01T00:00:00Z"
 	2021/12 Agony
 	2022/10 Bullensau
 	2022/11 Stay(Vocal. Alison)
-	2023/4	Project 1-Autopilot/Sober/Giggles/Swan on the ;ale
+	2023/4	Project 1-Autopilot/Sober/Giggles/Swan on the lake
 
   Here is my musician home page:
   https://music.163.com/#/artist?id=34442352
