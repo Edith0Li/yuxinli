@@ -15,4 +15,4 @@ date: "2022-11-01T00:00:00Z"
 
 I used NukeX to add visual effects and post to a short movie.
 
-YOUTUBE:https://youtu.be/Rd6Ay1JAZts?si=c6AhfFylIWdt-4zh
+YOUTUBE: https://youtu.be/Rd6Ay1JAZts?si=c6AhfFylIWdt-4zh

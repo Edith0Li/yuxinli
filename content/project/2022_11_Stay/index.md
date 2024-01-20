@@ -13,4 +13,4 @@ date: "2022-11-01T00:00:00Z"
 #  focal_point: Smart
 ---
 
-	YOUTUBE:https://youtu.be/phOecFcGSDs?si=KY8g26z_sOZ_NFpQ
+YOUTUBE: https://youtu.be/phOecFcGSDs?si=KY8g26z_sOZ_NFpQ

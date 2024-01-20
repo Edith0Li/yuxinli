@@ -15,4 +15,4 @@ date: "2022-11-01T00:00:00Z"
 
 My group members and I originated the script for a school horror skit, designed the subplots and dialog, filmed and did the editing and post-production.
 
-YOUTUBE:https://youtu.be/UkKKw_3q8Wg?si=xGGaMlSQTk1YYStD
+YOUTUBE: https://youtu.be/UkKKw_3q8Wg?si=xGGaMlSQTk1YYStD
