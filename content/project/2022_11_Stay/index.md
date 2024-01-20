@@ -1,6 +1,6 @@
 ---
 title: Stay
-summary: “Recording and mixing.(vocal-Alison)”
+summary: Recording and mixing.(vocal-Alison)
 tags:
   - Musical Works
 date: "2022-11-01T00:00:00Z"
