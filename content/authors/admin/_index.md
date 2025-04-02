@@ -21,7 +21,7 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Beijing University of Posts and Telecommunications(BUPT)
+  - name: Beijing University of Posts and Telecommunications
     url: https://www.bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
