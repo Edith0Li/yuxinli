@@ -21,7 +21,7 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chalmers University of Technology
+  - name: Chalmers University of Technology - Applied Acoustics
     url: https://www.bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
